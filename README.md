@@ -1,1 +1,0 @@
-# ci-snyk-security
